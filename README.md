@@ -39,8 +39,7 @@ AddressBook/
 ├── schemas.py       # Pydantic schemas
 ├── crud.py          # Database operations
 ├── utils.py         # Utility functions (distance calculation)
-├── requirement.txt  # Install the requirements
-└── .gitignore       # Ignored files
+└── requirement.txt  # Install the requirements
 
 ```
 
